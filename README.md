@@ -7,7 +7,7 @@
 <p>
 
 + 💻 Profiency in Python, C/Cpp, Java, HTML and CSS
-+ ⌨ Programming language I like the most is Python  
++ ⌨ Programming language I like the most is Java & Python  
 + 🌱 I’m currently exploring the workings of website backend frameworks
 + 💬 I love to discuss about programming, Computers, Maths, and Physics 
 + 📫 How to reach me: https://www.linkedin.com/in/ashit-kumar-rai/
